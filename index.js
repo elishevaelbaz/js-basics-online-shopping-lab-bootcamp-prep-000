@@ -1,4 +1,3 @@
-learn test
 var cart = [];
 
 function getCart() {
